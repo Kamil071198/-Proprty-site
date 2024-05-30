@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    
+
+}
+
+
+.btn .form-control {
+    border: none;
+
+color: black;
+}
+
+.btn:hover{
+    background-color: blue;
+    transition: 0.5s;
+} 
+
+.cw{
+    height: 890px;
+    object-fit: cover;
+}
+
+
+
+#footer {
+    background-color: gray;
+    padding: 40px 0;
+}
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
